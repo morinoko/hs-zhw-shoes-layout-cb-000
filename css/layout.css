@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+.row {
+  margin-bottom: 20px;  
+}
+
 .col-1 {
   float: left;
   width: 32%;
